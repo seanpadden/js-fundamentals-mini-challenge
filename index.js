@@ -4,7 +4,7 @@
 
 // console.log(counter) 
 // // => 2
-console.log("%c----------", "color: red") 
+console.log("%c----------", "color: blue") 
 
 
 // ***** Question 2 *****
